@@ -4,218 +4,213 @@ PRODID:-//Family Birthday Calendar//ua//
 X-WR-CALNAME:Сімейні дні народження
 X-WR-TIMEZONE:Europe/Kyiv
 BEGIN:VEVENT
-SUMMARY:День народження святкує: День народ
- ження святкує Глушко (Юско-Смерека) Вале
- нтина Іванівна
+SUMMARY:День народження святкує:  Глушко (Юс
+ ко-Смерека) Валентина Іванівна
 DTSTART;VALUE=DATE:19680807
-UID:53f900e6-4557-42bf-94bf-b9b9a84037f9
+UID:0d853977-35e6-4e8d-81af-05a07589db04
 RRULE:FREQ=YEARLY
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:День народження святкує: День народ
- ження святкує Смерека Василь Васильович
+SUMMARY:День народження святкує:  Смерека Ва
+ силь Васильович
 DTSTART;VALUE=DATE:19721001
-UID:edb98f81-4cd1-48ca-abc2-5de4d1961896
+UID:06950d9a-7cae-4989-831d-523e7983ddca
 RRULE:FREQ=YEARLY
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:День народження святкує: День народ
- ження святкує Удут (Глушко) Лідія Василі
- вна
+SUMMARY:День народження святкує:  Удут (Глуш
+ ко) Лідія Василівна
 DTSTART;VALUE=DATE:19910821
-UID:0bab4ff4-2266-4511-aaa2-f5b94920f54b
+UID:ec037543-5075-45d3-9776-3050a6a741ec
 RRULE:FREQ=YEARLY
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:День народження святкує: День народ
- ження святкує Удут Михайло Михайлович
+SUMMARY:День народження святкує:  Удут Михай
+ ло Михайлович
 DTSTART;VALUE=DATE:19890822
-UID:e2210bb1-ac8e-4f05-9097-f30cc991cfac
+UID:0a710a8d-2bdb-41de-b92f-9fe73862dd64
 RRULE:FREQ=YEARLY
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:День народження святкує: День народ
- ження святкує Удут Ніколета Михайлівна
+SUMMARY:День народження святкує:  Удут Нікол
+ ета Михайлівна
 DTSTART;VALUE=DATE:20151220
-UID:d35eef72-721b-44a5-9baa-186b4cce737e
+UID:cfb552a7-8992-4cc0-857b-3770bc677604
 RRULE:FREQ=YEARLY
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:День народження святкує: День народ
- ження святкує Удут Валентин Михайлович
+SUMMARY:День народження святкує:  Удут Вален
+ тин Михайлович
 DTSTART;VALUE=DATE:20170809
-UID:db52b632-55a4-433c-a0e4-5dc1dd0bf61b
+UID:6d248a58-48ff-42af-a049-87cb71a338d8
 RRULE:FREQ=YEARLY
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:День народження святкує: День народ
- ження святкує Юско Іван Іванович
+SUMMARY:День народження святкує:  Юско Іван 
+ Іванович
 DTSTART;VALUE=DATE:19691015
-UID:63727a6e-c97e-4e59-afc7-a32e96dc021f
+UID:772e8050-ec59-4235-8037-8a0c16e89fb9
 RRULE:FREQ=YEARLY
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:День народження святкує: День народ
- ження святкує Юско Василь Іванович
+SUMMARY:День народження святкує:  Юско Васил
+ ь Іванович
 DTSTART;VALUE=DATE:19750618
-UID:39eec65e-3e94-427c-b569-80087d806fb8
+UID:8b859455-71d1-4d4f-a28a-dbd50a7911fc
 RRULE:FREQ=YEARLY
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:День народження святкує: День народ
- ження святкує Юско (Миглис (Щока)) Оксана
+SUMMARY:День народження святкує:  Юско (Мигл
+ ис (Щока)) Оксана
 DTSTART;VALUE=DATE:19730628
-UID:16649a54-2f55-4760-b80e-1a11d645b74b
+UID:f6284575-62fc-4d88-9408-89a68ba3eae5
 RRULE:FREQ=YEARLY
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:День народження святкує: День народ
- ження святкує Миглис Василь
+SUMMARY:День народження святкує:  Миглис Вас
+ иль
 DTSTART;VALUE=DATE:19950627
-UID:b0bb2cc0-7723-4cd9-afbd-36a6c8c074e4
+UID:700b5345-0d96-4cde-8aaf-09ad6a1c4a48
 RRULE:FREQ=YEARLY
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:День народження святкує: День народ
- ження святкує Нергеш (Миглис) Славка
+SUMMARY:День народження святкує:  Нергеш (Ми
+ глис) Славка
 DTSTART;VALUE=DATE:19950627
-UID:ee8bce6a-ddf1-4628-b8f2-46375d2bad05
+UID:a7cab831-3a5e-4137-83a6-2221a024543e
 RRULE:FREQ=YEARLY
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:День народження святкує: День народ
- ження святкує Нергеш Василь
+SUMMARY:День народження святкує:  Нергеш Вас
+ иль
 DTSTART;VALUE=DATE:19910620
-UID:74150d22-79fe-4c99-b2d2-9fc96af579e1
+UID:7435371a-ec5c-4870-aeb8-0bf6de35c869
 RRULE:FREQ=YEARLY
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:День народження святкує: День народ
- ження святкує Нергеш Емілія Василівна
+SUMMARY:День народження святкує:  Нергеш Емі
+ лія Василівна
 DTSTART;VALUE=DATE:20211209
-UID:e267330b-a690-49ed-846a-862cb36d07b7
+UID:15ac7ba7-e026-4473-8663-4e8350c46188
 RRULE:FREQ=YEARLY
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:День народження святкує: День народ
- ження святкує Юско Олександр Васильович
+SUMMARY:День народження святкує:  Юско Олекс
+ андр Васильович
 DTSTART;VALUE=DATE:20090423
-UID:a48d736b-18ae-4722-8178-d3995e86a69f
+UID:05d0d317-3b6b-47af-b76a-2331f089f76e
 RRULE:FREQ=YEARLY
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:День народження святкує: День народ
- ження святкує Плескач (Кобаль) Ганна Мих
- айлівна
+SUMMARY:День народження святкує:  Плескач (К
+ обаль) Ганна Михайлівна
 DTSTART;VALUE=DATE:19540102
-UID:e4dae054-6558-4c1d-a51b-efe52c6fd292
+UID:a244bd8a-ca68-4cbd-ad37-6598925b466b
 RRULE:FREQ=YEARLY
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:День народження святкує: День народ
- ження святкує Плескач Василь Іванович
+SUMMARY:День народження святкує:  Плескач Ва
+ силь Іванович
 DTSTART;VALUE=DATE:19500627
-UID:23f18a32-a110-4e6a-a865-a4ce60aa6f91
+UID:1f3ec588-e996-4dbc-890c-3dac59ffaf82
 RRULE:FREQ=YEARLY
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:День народження святкує: День народ
- ження святкує Фотул (Плескач) Сніжана Ва
- силівна
+SUMMARY:День народження святкує:  Фотул (Пле
+ скач) Сніжана Василівна
 DTSTART;VALUE=DATE:19730716
-UID:236b68de-b143-402e-8c19-3daf4c057389
+UID:bd1c77ce-73ce-4828-8ad9-ede1e30385c3
 RRULE:FREQ=YEARLY
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:День народження святкує: День народ
- ження святкує Фотул Іван Васильович
+SUMMARY:День народження святкує:  Фотул Іван
+  Васильович
 DTSTART;VALUE=DATE:19740607
-UID:1427caa0-ba76-4d61-84c8-b9290a6b4097
+UID:4b4ae4fa-4217-4a82-bd6a-f698ccfee6d3
 RRULE:FREQ=YEARLY
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:День народження святкує: День народ
- ження святкує Фотул Іван Іванович
+SUMMARY:День народження святкує:  Фотул Іван
+  Іванович
 DTSTART;VALUE=DATE:19950602
-UID:d454a80a-2341-4719-8159-6d76bb130ff6
+UID:c5732774-00c6-4942-ab1e-66f440bbdedf
 RRULE:FREQ=YEARLY
 DESCRIPTION:Братішка
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:День народження святкує: День народ
- ження святкує Фотул (Совбан) Вікторія Ва
- силівна
+SUMMARY:День народження святкує:  Фотул (Сов
+ бан) Вікторія Василівна
 DTSTART;VALUE=DATE:19960806
-UID:154a93fd-248c-4f4c-afdf-303ac4355aa2
+UID:72d8fc8c-b5bf-4c34-814d-399f52ef3268
 RRULE:FREQ=YEARLY
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:День народження святкує: День народ
- ження святкує Фотул Девід Іванович
+SUMMARY:День народження святкує:  Фотул Деві
+ д Іванович
 DTSTART;VALUE=DATE:20181218
-UID:c4b62257-3280-430c-9a59-4e35d56c4bec
+UID:01e279fb-1427-4348-8b09-61c7deb4d7be
 RRULE:FREQ=YEARLY
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:День народження святкує: День народ
- ження святкує Фотул Сніжана Іванівна
+SUMMARY:День народження святкує:  Фотул Сніж
+ ана Іванівна
 DTSTART;VALUE=DATE:20091015
-UID:026cc41a-be19-4f02-ab4a-922d9fb9f71e
+UID:b6343f27-4858-4f33-9f29-b2a9683deec2
 RRULE:FREQ=YEARLY
 DESCRIPTION:джоні
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:День народження святкує: День народ
- ження святкує Плескач Василь Васильович
+SUMMARY:День народження святкує:  Плескач Ва
+ силь Васильович
 DTSTART;VALUE=DATE:19760524
-UID:05543c08-b820-4ab6-a5b8-ff127a8a7495
+UID:a30714ed-4504-460d-ad70-8bcea2f9aaa0
 RRULE:FREQ=YEARLY
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:День народження святкує: День народ
- ження святкує Холонюк Валентина Юріївна
+SUMMARY:День народження святкує:  Холонюк Ва
+ лентина Юріївна
 DTSTART;VALUE=DATE:19760604
-UID:94b49f55-a513-47a7-99d7-a9bf9433d8f6
+UID:3a67acdb-e8f7-4ff2-ae70-9bba73772e6f
 RRULE:FREQ=YEARLY
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:День народження святкує: День народ
- ження святкує Плескач Андрій Васильович
+SUMMARY:День народження святкує:  Плескач Ан
+ дрій Васильович
 DTSTART;VALUE=DATE:20000713
-UID:6427d835-4f07-4ae7-a1ed-04824e52874f
+UID:97ab55be-5423-4f8b-8f7a-5f8e63e03d40
 RRULE:FREQ=YEARLY
 DESCRIPTION:Гуси лебеді летіли  в …
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:День народження святкує: День народ
- ження святкує Плескач Анна Василівна
+SUMMARY:День народження святкує:  Плескач Ан
+ на Василівна
 DTSTART;VALUE=DATE:20030919
-UID:70f61ef9-7718-40b7-a29b-15fb2bf8373f
+UID:a18ec0a0-faaf-4b82-ba73-3769784b0323
 RRULE:FREQ=YEARLY
 END:VEVENT
 
